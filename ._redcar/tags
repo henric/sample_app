@@ -1,0 +1,5 @@
+1335733940
+Application	C:/Users/Henri/Rails/sample_app/config/application.rb	  class Application 
+ApplicationController	C:/Users/Henri/Rails/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Users/Henri/Rails/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+SampleApp	C:/Users/Henri/Rails/sample_app/config/application.rb	module SampleApp
